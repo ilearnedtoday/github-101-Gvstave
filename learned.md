@@ -1,8 +1,8 @@
-#What I learned today.🧑‍💻
+# What I learned today.🧑‍💻
 
 Github is a tool for tracking the progress of your works, collaborating and sharing them. This markdown file is about connecting the dots of what I learned 🚀 and the things am still confused about in relation to getting started with Github.
 
-##TakeDowns ✍️
+## TakeDowns ✍️
 
 After going through the Github introduction, below 👇 is a brief explanation of what I learned.
 
@@ -15,7 +15,7 @@ After going through the Github introduction, below 👇 is a brief explanation o
 *Issue: In Github issues are basically a description of bugs, implementation details, items to include in the project, and features that are within that project.
 *Pull request: To contribute to a project an individual can propose changes to the project through a pull request, the changes can then be reviewed by other contibutors before being emerged into the main codebase.
 
-##Disputes 🤔
+## Disputes 🤔
 
 *In as much as I have modified my file I still have challenges with the styling conventions of a markdown file.
 *The purpose of starring a repository, is it liking a repo or it's just starring?
