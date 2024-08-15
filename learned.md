@@ -20,5 +20,5 @@ After going through the Github introduction, below 👇 is a brief explanation o
 Below are some of the issues that are still boggling my mind.
 
 * In as much as I have modified my file I still have challenges with the styling conventions of a markdown file.
-* The purpose of starring a repository, is it liking a repo or it's just ["starring"](https://docs.github.com/en/github/getting-started-with-github/saving-repositories-with-stars)?
+* The purpose of starring a repository, is it liking a repo or it's just [starring](https://docs.github.com/en/github/getting-started-with-github/saving-repositories-with-stars)?
 * I still can not properly differentiate **commit from push**.
