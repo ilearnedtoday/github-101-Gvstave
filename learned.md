@@ -21,4 +21,4 @@ Below are some of the issues that are still boggling my mind.
 
 * In as much as I have modified my file I still have challenges with the styling conventions of a markdown file.
 * The purpose of starring a repository, is it [liking](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Facebook_like_button&ved=2ahUKEwiczPDOi_aHAxXMVkEAHY58FRcQFnoECEoQAQ&usg=AOvVaw3ou_8SVcrzhcV2TVe2lRZ8) a repo or it's just [starring](https://docs.github.com/en/github/getting-started-with-github/saving-repositories-with-stars)?
-* I still can not properly differentiate **commit from push**.
+* I still can not properly differentiate **commit** from **push**.
